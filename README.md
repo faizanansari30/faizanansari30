@@ -4,20 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 
 🛠 Skills
-# HTML / CSS ⭐️⭐️⭐️⭐️⭐️
-I maintain the Semantic markup, I've experience with Search Engine Optimization. I can ensure consistent performance across multiple browsers and platforms. I often turn to using preprocessors such as Sass. I love PostCSS and I prefer to develop the future-proof CSS.
+I have a wide knowledge of application development and operations and have been active in the IT industry for 4+ years. I am a technology agnostic professional, and I believe that we can extract the best from each technology according to our needs. In my professional profile, I highlight the ability of quickly finding solutions and making them operational, simplifying things rather than overcomplicating them and disseminating knowledge by creating collaborative environments, as well as leading and inspiring the teams I have the opportunity to work with. Main Tech Skills: Node.js/Javascript, Python, Ruby, C#, Java, C++, AWS, GCP, Azure, Docker, Kubernetes, CI/CD, IaC, Jenkins, Vault, Ansible, MSSQL, MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch, SCRUM, Kanban, Linux, Varnish, RabbitMQ, Nginx, Traefik, Serverless, SQS, Pub/Sub, BigQuery.
 
-# Javascript ⭐️⭐️⭐️⭐️⭐️
-My "native" programming language, I've worked with it for over 6 years. I've used it in the front-end with React and Redux, in the back-end for APIs with Node, Express and Hapi.js and for testing automation using Mocha and later on, Jest.
-
-# WordPress ⭐️⭐️⭐️⭐️⭐️
-I am familiar with WordPress. I can create custom themes as well as modifying existing themes, plugins, and writing custom code. I'm specializing in using the Divi theme and removing malware.
-
-# Shopify ⭐️⭐️⭐️⭐️⭐️
-I am proficient with Shopify, I've worked with it for over 4 years. I have extensive experience working with Shopify Rest API. I can create custom themes. I am learning how to build a Shopify app using Node.js and React.
-
-# Infrastructure ⭐️⭐️⭐️⭐️⭐️
-AWS, SiteGround, GoDaddy, Bluehost, DigitalOcean
 
 
 
